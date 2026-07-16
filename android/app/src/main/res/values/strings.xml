@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">aivsubvip</string>
+    <string name="title_activity_main">aivsubvip</string>
+    <string name="package_name">com.aivsubvip.app</string>
+    <string name="custom_url_scheme">com.aivsubvip.app</string>
+</resources>
