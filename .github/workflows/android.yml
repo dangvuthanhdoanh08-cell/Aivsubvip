@@ -1,4 +1,6 @@
-name: Android Build
+- uses: actions/setup-node@v4
+  with:
+    node-version: 22name: Android Build
 
 on:
   push:
